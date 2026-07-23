@@ -31,7 +31,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel.
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](./Dashboard%20Screenshot.png)
 
 ## Key Insights
 
