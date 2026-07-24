@@ -1,8 +1,15 @@
-# Excel Sales Dashboard
+# 📊 Excel Sales Dashboard
 
 ## Project Overview
 
-This project is an interactive Sales Dashboard built in Microsoft Excel.
+An interactive sales dashboard built in Microsoft Excel to analyze sales performance across products, categories, cities, and sales representatives.
+
+## Project Objectives
+
+- Analyze sales performance across cities, products, and salespersons.
+- Create interactive filters for dynamic analysis.
+- Present KPIs in a clear dashboard format.
+- Generate actionable business insights.
 
 ## Skills Used
 
@@ -35,6 +42,7 @@ This project is an interactive Sales Dashboard built in Microsoft Excel.
 
 ## Key Insights
 
-- Delhi generated the highest sales.
-- Mobile was the top product.
-- Riya achieved the highest sales performance.
+- Delhi contributed the highest sales revenue.
+- Mobile generated the highest product sales.
+- Riya achieved the best overall sales performance.
+- Electronics category contributed the majority of sales.
